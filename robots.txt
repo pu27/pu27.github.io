@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /stuff/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /manag*
+Disallow: /administrator/
+Disallow: /*.pdf
+Disallow: /*?
+
+Sitemap: http://pu27.ru/sitemap.xml
+Host: pu27.ru
